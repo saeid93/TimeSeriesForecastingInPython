@@ -5,3 +5,4 @@ panda
 matplotlib
 ipykernel
 tqdm
+ipywidgets
