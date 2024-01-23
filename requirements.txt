@@ -4,3 +4,4 @@ statsmodels
 panda
 matplotlib
 ipykernel
+tqdm
