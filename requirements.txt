@@ -6,3 +6,4 @@ matplotlib
 ipykernel
 tqdm
 ipywidgets
+seaborn
