@@ -8,3 +8,4 @@ tqdm
 ipywidgets
 seaborn
 tensorflow
+prophet
